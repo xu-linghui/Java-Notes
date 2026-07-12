@@ -1,4 +1,4 @@
-# Java-Notes
+<img width="829" height="212" alt="image" src="https://github.com/user-attachments/assets/51a1f1b7-6e7c-4083-8800-941334251591" /># Java-Notes
 
 B站韩顺平老师的Java课程笔记
 
@@ -6,6 +6,12 @@ B站韩顺平老师的Java课程笔记
 - 课堂练习代码
 - 学习笔记（含PDF）
 - MySQL相关表结构
+
+## 分支说明
+
+- **main** 分支：存放学习笔记和资料。
+- **master** 分支：存放日常练习的 Java 代码。
+
 
 ## 📖 如何查看 PDF 笔记
 
