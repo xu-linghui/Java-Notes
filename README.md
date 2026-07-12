@@ -1,4 +1,4 @@
-<img width="829" height="212" alt="image" src="https://github.com/user-attachments/assets/51a1f1b7-6e7c-4083-8800-941334251591" /># Java-Notes
+# Java-Notes
 
 B站韩顺平老师的Java课程笔记
 
