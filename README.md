@@ -1,0 +1,11 @@
+echo # Java 学习笔记 > README.md
+echo. >> README.md
+echo 本项目包含我在学习 Java 过程中的练习代码和学习资料。 >> README.md
+echo. >> README.md
+echo ## 分支说明 >> README.md
+echo - **main** 分支：存放学习笔记和资料。 >> README.md
+echo - **master** 分支：存放日常练习的 Java 代码。 >> README.md
+echo. >> README.md
+echo ## 关于 .gitignore >> README.md
+echo 项目根目录下的 `.gitignore` 文件用于告诉 Git 哪些文件不需要提交到仓库中。 >> README.md
+echo 目前它忽略了所有编译生成的 `.class` 字节码文件，因为这些文件可以通过源码重新编译得到，不需要保存在版本库里。 >> README.md
